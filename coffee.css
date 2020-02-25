@@ -1,0 +1,68 @@
+.top{
+ 
+ height:40px;
+}
+
+.menu{
+ background:white;
+ height:150px;
+ width:100%;
+ float:left;
+}
+
+.logo{
+    height:150px;
+    width: 20%;
+    padding-left:15%;
+    margin-top:20px;
+}
+
+.hero{
+ background:#FDC523;
+ height:400px;
+ width:100%;
+ float:left;
+}
+
+.galery{
+ background:#FDC523;
+ height:400px;
+ width:100%;
+ float:left;
+ padding-top: 40px;
+}
+
+.photos{
+ background:white;
+ height:300px;
+ width:70%;
+ margin:auto;
+ margin-bottom:10px;
+}
+
+.footer{
+ height:30px;
+ width:70%;
+ margin:auto;
+text-align: center;
+}
+
+.leftpic{
+    float: left;
+    margin-left: 20px;
+    margin-top: 25px;
+    width: 30%;
+    height: 250px;
+}
+
+.info{
+    float: right;
+    margin-top: 25px;
+    margin-right: 20px;
+    width: 63%;
+    height: 250px;
+}
+
+p {
+   font-family: 'Roboto';
+}
